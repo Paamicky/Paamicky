@@ -10,7 +10,7 @@
 
 📈 Whether it's optimizing business processes, solving real-world challenges, or diving into the latest machine learning techniques, I am always excited to take on new projects and contribute to innovative solutions.
 
-🌐 Connect with me on LinkedIn: [Michael Commey](www.linkedin.com/in/michael-commey)
+🌐 Connect with me on LinkedIn: [www.linkedin.com/in/michael-commey]
 
 Let's explore the world of data together and turn insights into actions!
 
