@@ -10,6 +10,8 @@
 
 📈 Whether it's optimizing business processes, solving real-world challenges, or diving into the latest machine learning techniques, I am always excited to take on new projects and contribute to innovative solutions.
 
+  I do very well in teamwork!! I love to play soccer and watch anime.
+  
 🌐 Connect with me on LinkedIn: [www.linkedin.com/in/michael-commey]
 
 Let's explore the world of data together and turn insights into actions!
