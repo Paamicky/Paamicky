@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello! I'm Michael, a passionate data scientist and analyst with a strong background in extracting valuable insights from data. I thrive on turning raw data into actionable intelligence, providing valuable solutions to complex problems.
+👋 Hello! I'm Michael, a data engineer and analyst with a strong background in extracting valuable insights from data. I thrive on turning raw data into actionable intelligence, providing valuable solutions to complex problems.
 
 🔍 My expertise lies in data analysis, machine learning, and statistical modeling. I enjoy exploring datasets, building predictive models, and uncovering patterns that drive informed decision-making.
 
